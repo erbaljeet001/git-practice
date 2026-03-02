@@ -18,3 +18,10 @@ This project contains:
 - VS Code
 
 ## 📂 Folder Structure
+
+OUTPUT
+
+Hello GitHub 🚀
+My name is Baljeet Kumar Yadav
+This is my first Java program pushed to GitHub.
+Sum of 10 and 5 is: 15
